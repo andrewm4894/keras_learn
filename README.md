@@ -1,4 +1,4 @@
-# keras_learn
+# study keras anomaly detection
 
 ### forked from
 - https://github.com/andrewm4894/keras_learn
@@ -15,6 +15,7 @@ $ pipenv install
 ```
 - use pyCharm open & run : lstm_multi.ipynb
 
+<img width="1024" alt="image" src="https://github.com/andrewm4894/keras_learn/assets/10396850/23d82959-6088-4295-aafd-d9d99a28f2af">
 
 
 ### ref
