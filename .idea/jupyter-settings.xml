@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="959d09f4edc74487f34ef6e5aa97a1e78ec6d4a99f7bafa9" />
+          <option name="urlString" value="http://127.0.0.1:8889/tree" />
+          <authParams2>
+            <map>
+              <entry key="token" value="959d09f4edc74487f34ef6e5aa97a1e78ec6d4a99f7bafa9" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="urlString" value="http://localhost:7942" />
+          <authParams2>
+            <map />
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="470c5c7e1bb0b69c122efa5d60cd14dea9e6caa103077755" />
+          <option name="urlString" value="http://localhost:8282/tree" />
+          <authParams2>
+            <map>
+              <entry key="token" value="470c5c7e1bb0b69c122efa5d60cd14dea9e6caa103077755" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="5156a964fb5283e415705eb848c246fb683229a0b378d979" />
+          <option name="urlString" value="http://localhost:8284/tree" />
+          <authParams2>
+            <map>
+              <entry key="token" value="5156a964fb5283e415705eb848c246fb683229a0b378d979" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="959d09f4edc74487f34ef6e5aa97a1e78ec6d4a99f7bafa9" />
+          <option name="urlString" value="http://localhost:8889/tree" />
+          <authParams2>
+            <map>
+              <entry key="token" value="959d09f4edc74487f34ef6e5aa97a1e78ec6d4a99f7bafa9" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="urlString" value="http://localhost:8891" />
+          <authParams2>
+            <map />
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../../nintelli/nintelli-nostradamus-ml-api/.idea/nintelli-nostradamus-ml-api.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="959d09f4edc74487f34ef6e5aa97a1e78ec6d4a99f7bafa9" />
+              <option name="urlString" value="http://127.0.0.1:8889/tree" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="959d09f4edc74487f34ef6e5aa97a1e78ec6d4a99f7bafa9" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t2tanic/.idea/t2tanic.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="urlString" value="http://localhost:7942" />
+              <authParams2>
+                <map />
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../yestredame/.idea/yestredame.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="470c5c7e1bb0b69c122efa5d60cd14dea9e6caa103077755" />
+              <option name="urlString" value="http://localhost:8282/tree" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="470c5c7e1bb0b69c122efa5d60cd14dea9e6caa103077755" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
