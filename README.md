@@ -21,3 +21,4 @@ $ pipenv install
 ### ref
 - https://medium.com/@andrewm4894/multi-variate-multi-step-lstm-for-anomaly-detection-ac78ae990a0
 - https://colab.research.google.com/drive/1Mx2uoeGL3VRQLifNtrcPY0rABc1GY3ep
+- [branch 1.1.0/pyod 사용해보기](https://junpyopark.github.io/pyod/)
